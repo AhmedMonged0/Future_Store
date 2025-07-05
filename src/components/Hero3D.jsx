@@ -69,7 +69,9 @@ const Hero3D = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 1, delay: 0.4 }}
           >
-            تجربة تسوق ثلاثية الأبعاد مع أحدث التقنيات والتصميمات المبتكرة
+            كل ما تحتاجه في مكان واحد – تسوّق بسهولة وبأفضل الأسعار.
+
+
           </motion.p>
 
           {/* Feature Icons */}
@@ -162,7 +164,7 @@ const Hero3D = () => {
               >
                 50K+
               </motion.div>
-              <div className="text-gray-600">عميل سعيد</div>
+              <div className="text-gray-600">عميل</div>
             </div>
             <div className="text-center">
               <motion.div

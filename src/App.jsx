@@ -257,15 +257,15 @@ function App() {
               <div>
                 <h4 className="text-lg font-semibold mb-4">Contact Info</h4>
                 <ul className="space-y-2 text-gray-400">
-                  <li>📧 info@futurestore.com</li>
-                  <li>📞 +1 (555) 123-4567</li>
-                  <li>📍 123 Future Street, Tech City</li>
+                  <li>📧 ahmdmnjd806@gmail.com</li>
+                  <li>📞 +20 1003061972</li>
+                  <li>📍 Bani Suef , EGYPT</li>
                 </ul>
               </div>
             </div>
             
             <div className="border-t border-gray-800 mt-12 pt-8 text-center text-gray-400">
-              <p>&copy; 2024 FutureStore. All rights reserved. Built with ❤️ and cutting-edge technology.</p>
+              <p>&copy; 2024 FutureStore. All rights reserved. Built with Ahmed Monged ❤️.</p>
             </div>
           </div>
         </footer>
