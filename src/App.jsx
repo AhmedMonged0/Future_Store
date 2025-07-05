@@ -265,7 +265,7 @@ function App() {
             </div>
             
             <div className="border-t border-gray-800 mt-12 pt-8 text-center text-gray-400">
-              <p>&copy; 2024 FutureStore. All rights reserved. Built with Ahmed Monged ❤️.</p>
+              <p>&copy; 2024 FutureStore. All rights reserved.Built with Ahmed Monged ❤️.</p>
             </div>
           </div>
         </footer>
